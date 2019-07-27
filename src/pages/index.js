@@ -41,7 +41,7 @@ class ClientFetchingExample extends Component {
 
     return (
       <div style={{ textAlign: "center", width: "600px", margin: "50px auto" }}>
-        <h1>{character.name} With His Pupper</h1>
+        <h1>{character.name} With His Puppetier</h1>
         <p>Rick & Morty API data loads at build time.</p>
         <p>Dog API data loads at run time.</p>
         <div>
